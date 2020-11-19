@@ -1,8 +1,13 @@
-### 老婆你来啦 👋
+### Professional bug machine
 
+### Main work: Making bugs
 
+### Sub work: debug
 
-### 老婆别走啊
+### Always gugugu
+
+### Always a student
+
 <!--
 **HeaIer/HeaIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
