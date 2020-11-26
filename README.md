@@ -1,4 +1,4 @@
-<h2 align="center">"Rage, rage against the dying of the light."</h2>
+<h1 align="center">"Rage, rage against the dying of the light."</h1>
 
 <!--
 **HeaIer/HeaIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
