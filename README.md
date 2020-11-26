@@ -1,5 +1,4 @@
-<h3 align="center">"Do not go gentle into that good night."</h3>
-<h3 align="center">"Rage, rage against the dying of the light."</h3>
+<h2 align="center">"Rage, rage against the dying of the light."</h2>
 
 <!--
 **HeaIer/HeaIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
