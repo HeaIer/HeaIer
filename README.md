@@ -1,14 +1,17 @@
-### Professional bug machine
+<h1 align="center">Do not go gentle into that good night </h1>
+<h1 align="center">Rage, rage against the dying of the light. </h1>
 
-### Main work: Making bugs
+-### Professional bug machine
 
-### Sub work: debug
+-### Main work: Making bugs
 
-### Always gugugu
+-### Sub work: debug
 
-### Always a student
+-### Always gugugu
 
-### Press any key to continue...
+-### Always a student
+
+-### Press any key to continue...
 
 <!--
 **HeaIer/HeaIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
